@@ -5,7 +5,7 @@ This project is a Tic Tac Toe game implemented using React and Node.js. It allow
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/adsyam/tic-tac-toe.git`
 2. Navigate to the project directory: `cd <project-directory>`
 3. Install dependencies: `npm install`
 4. Install nodemon globally: `npm install -g nodemon`
