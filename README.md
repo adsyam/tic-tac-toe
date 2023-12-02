@@ -65,17 +65,6 @@ export default defineConfig({
 }) 
 ```
 
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b <branch-name>`
-3. Make your changes and commit them: `git commit -m '<commit-message>'`
-4. Push your changes to the branch: `git push origin <branch-name>`
-5. Submit a pull request
-
 ## Bugs
 
 - As of writing this, this is my 1st time dealing with Node JS w/o prior experience
